@@ -1,5 +1,5 @@
 # EXERCÍCIOS
-Repositório que organiza todos os exercícios realizados por mim (tirando os milhares que fiz e perdi :sweat:).
+Repositório que organiza alguns exercícios realizados.
 
 ## Links dos repositórios:
 ### Geral
